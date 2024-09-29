@@ -1,3 +1,7 @@
 - Learn Git basics
+<<<<<<< HEAD
 - Set up Git repository
 - Practice Git branching
+=======
+
+>>>>>>> feature/remove-tasks
